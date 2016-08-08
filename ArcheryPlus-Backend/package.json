@@ -1,0 +1,13 @@
+{
+  "name": "archery-plus-backend",
+  "version": "0.0.1",
+  "description": "Backend for archery-plus",
+  "main": "index.js",
+  "author": "phead",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "4.13.4",
+    "socket.io": "latest"
+  }
+}
